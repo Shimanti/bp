@@ -5,11 +5,11 @@ Blood Pressure Log
 Project Plan as of 1/13/21
 Agenda
 
-1 Rules
-2 Scheduling
-3 Project Plan
-4 Resources
-5 Next steps
+# 1 Rules
+# 2 Scheduling
+# 3 Project Plan
+# 4 Resources
+# 5 Next steps
 
 Rules
 - 1 hour per day max - set timer
