@@ -38,8 +38,8 @@ p {
 img {
     width: 100%;
 }
-/* Navbar */
 
+/* Navbar */
 .navbar {
     background-color: var(--primary-color);
     color: #fff;
@@ -65,7 +65,6 @@ img {
 }
 
 /* Showcase */
-
 .showcase {
     height: 400px;
     background-color: var(--primary-color);
@@ -82,9 +81,9 @@ img {
 }
 
 .showcase .grid {
+    overflow: visible;
     grid-template-columns: 55% 45%;
     gap: 30px;
-    overflow: visible;
 }
 
 .showcase-form {
@@ -94,7 +93,7 @@ img {
     width: 400px;
     padding: 40px;
     z-index: 100;
-    /* justify-self: flex-end; */
+    justify-self: flex-end;
 }
 
 .showcase-form .form-control {
@@ -107,14 +106,14 @@ img {
     border-bottom: 1px solid #b4becb;
     width: 100%;
     padding: 3px;
-    font-size: 16px;;
+    font-size: 16px;
 }
 
 .showcase-form input:focus {
     outline: none;
 }
 
-.showcase::before, .showcase-form::after {
+.showcase::before, .showcase::after {
     content: '';
     position: absolute;
     height: 100px;
@@ -129,7 +128,6 @@ img {
 }
 
 /* Utilities */
-
 .container {
     max-width: 1100px;
     margin: 0 auto;
