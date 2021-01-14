@@ -94,7 +94,7 @@ img {
     width: 400px;
     padding: 40px;
     z-index: 100;
-    justify-self: flex-end;
+    /* justify-self: flex-end; */
 }
 
 .showcase-form .form-control {
@@ -113,6 +113,21 @@ img {
 .showcase-form input:focus {
     outline: none;
 }
+
+.showcase::before, .showcase-form::after {
+    content: '';
+    position: absolute;
+    height: 100px;
+    bottom: -70px;
+    right: 0;
+    left: 0;
+    background: #fff;
+    transform: skewY(-3deg);
+    -webkit-transform: skewY(-3deg);
+    -moz-transform: skewY(-3deg);
+    -ms-transform: skewY(-3deg);
+}
+
 /* Utilities */
 
 .container {
