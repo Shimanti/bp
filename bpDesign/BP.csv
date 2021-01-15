@@ -1,0 +1,45 @@
+Date/Time,"BP SyStolic
+(mmHG)","BP Dia
+(mmHG)","Pulse
+(/ MiN)",Notes
+8:07 AM,162,98,71,Wake up - time may be wrong
+8:14 AM,138,94,62,"After - TM, slowing down heart rate"
+9:56 AM,148,97,69,After - more sleep
+11:15 AM,132,93,76,Before - coffee & toast
+2:24 PM,166,99,74,After - computer work (bills) & stretch
+2:49 PM,152,93,74,"After - TM, sitting at computer"
+3:06 PM,163,94,73,After - starting this spreadsheet
+3:22 PM,152,102,70,"After - editing this spreadsheet, leaning back in chair"
+3:47 PM,166,100,68,After - massage machine
+3:59 PM,187,103,71,"After - sitting at computer, creating additional spreadsheets, and then shutting eyes and leaning back for 3 minutes in computer chair"
+4:04 PM,181,100,71,"After - editing this spreadsheet, leaning back in chair"
+4:09 PM,162,100,69,After - standing and drinking water
+
+Average BP (SYS),MAximum SYS,Average PULSE
+159,166,71
+AVERAGE BP (DIA),MAXIMUM DIA,MAX PULSE
+95,99,76
+
+Activity,
+Sleep,Wake up - time may be wrong
+Meditation,"After - TM, slowing down heart rate"
+Sleep,After - more sleep
+Standing,Before - coffee & toast
+Sitting & Standing & Eating,After - computer work (bills) & stretch
+Sitting & Meditation,"After - TM, sitting at computer"
+Sitting & Computer,After - starting this spreadsheet
+Sitting & Computer,"After - editing this spreadsheet, leaning back in chair"
+Sitting & Massage,After - massage machine
+Sitting & Computer & Meditation,"After - sitting at computer, creating additional spreadsheets, and then shutting eyes and leaning back for 3 minutes in computer chair"
+Standing & Drinking Water,After - standing and drinking water
+
+,
+Computer,Computer
+Drinking Water,Drinking Water
+Eating,Eating
+Massage,Massage
+Meditation,Meditation
+Sitting,Sitting
+Sleep,Sleep
+Standing,Standing
+Doing a lot,Don’t know
