@@ -59,3 +59,4 @@ All communication: via DM on Discord
 ## Updates
 - 1/14/21 Katrina: First website delivered
 - 1/14/21 Shimanti: First prototype; Proposal delivered
+- 1/15/21 Katrina: Website updated through 1:10?
