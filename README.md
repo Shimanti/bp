@@ -4,11 +4,11 @@ Blood Pressure Log
 # Project Plan as of 1/13/21
 ## Agenda
 
-- 1 Rules
-- 2 Scheduling
-- 3 Project Plan
-- 4 Resources
-- 5 Next steps
+### 1 Rules
+### 2 Scheduling
+### 3 Project Plan
+### 4 Resources
+### 5 Next steps
 
 ## Rules
 - 1 hour per day max - set timer
@@ -26,6 +26,7 @@ Blood Pressure Log
 - Video to watch: www.youtube.com/watch?v=p0bGHP-PXD4
 - GitHub https://github.com/Shimanti/bp/tree/shimanti
 - Proposal https://docs.google.com/document/d/1lAn36GEdbCMZQFhIohaVyAM9CQb0K-RJb-7oBbtJIYg/edit
+- Netlify Site deployment: https://shimanti-cloudy.netlify.app
 
 ## Next Step
 - [x] Set up GitHub
@@ -57,6 +58,7 @@ Next Scrum: Wed Jan 20, 2021 at noon MT
 All communication: via DM on Discord
 
 ## Updates
-- 1/14/21 Katrina: First website delivered
-- 1/14/21 Shimanti: First prototype; Proposal delivered
+- 1/14/21 Katrina: First website added
+- 1/14/21 Shimanti: First prototype; Proposal added
 - 1/15/21 Katrina: Website updated through 1:10?
+- 1/15/21 Shimanti: Site deployed on Netlify (to see it)
