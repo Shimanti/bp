@@ -59,6 +59,27 @@
     color: #fff;
 }
 
+/* Text colors */
+.text-primary, .btn-primary {
+    color: var(--primary-color);
+
+}
+
+.text-secondary, .btn-secondary {
+    color: var(--secondary-color);
+
+}
+
+.text-dark, .btn-dark {
+    color: var(--dark-color);
+
+}
+
+.text-light, .btn-light {
+    color: var(--light-color);
+
+}
+
 /* Text sizes */
 .lead {
     font-size: 20px;
