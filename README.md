@@ -1,7 +1,7 @@
 # bp
 Blood Pressure Log
 
-# Project Plan as of 1/13/21
+# Project Plan as of 1/13/21; updated 1/17/21
 ## Agenda
 
 ### 1 Rules
@@ -13,14 +13,25 @@ Blood Pressure Log
 ## Rules
 - 1 hour per day max - set timer
 - Add comments after coding
-- Don’t worry about css until after site is built using template
+- Don’t worry about css until after site is built
 
 ## Project Plan
 - Initial deadline - 1 month to reveal to Leon
+
+## Production (aka Katrina)
 - Build template
-    - Follow Brad Traversy
+    - Follow Brad Traversy YouTube video
     - Build responsive website html, css grid, flexbox & more
-    - YouTube video
+- Next step: Build first app with development
+
+## Development (aka Shimanti)
+- Built prototype (MVP - spreadsheet)
+- Started using MVP to accumulate data
+- Results after 3 days
+-- computer, iPhone, iPad triggers for high BP
+-- walking, 10 min exercise, meditation (even 2 min shit eye) reduce BP
+- Built prototype2 - updated spreadsheet
+- Next Step: Design app with production
 
 ## Resources
 - Video to watch: www.youtube.com/watch?v=p0bGHP-PXD4
@@ -33,6 +44,7 @@ Blood Pressure Log
 - [x] Set up scheduling to alternate programmers
 - [x] Start project plan - Fill-in proposal - to do task
 - [x] Start programming
+- Scrum time!
 
 ## Scheduling
 - Katrina EST pritckat@gmail.com
@@ -47,14 +59,20 @@ Blood Pressure Log
     - Week 2: Second draft
 - Third - cleanup for real test with Leon
 
-## Tasks
+## Tasks Accomplished
 - Katrina
     - Leon appt (research)
-    - First round of app
+    - Start Cloudy website
+    - Finished Cloudy website (in 3 days!) - complete responsive mobile app
 - Shimanti:
     - Proposal
+    - Protoype1
+    - Prototype2 (in 4 days! And BP lowering results!)
 
-Next Scrum: Wed Jan 20, 2021 at noon MT
+Next Scrum: Mon Jan 18, 2021 at noon MT (max 1 hr)
+- S: Walk through prototype2
+- K: Walk through website1 - steps, please!
+
 All communication: via DM on Discord
 
 ## Updates
@@ -62,3 +80,5 @@ All communication: via DM on Discord
 - 1/14/21 Shimanti: First prototype; Proposal added
 - 1/15/21 Katrina: Website updated through 1:10?
 - 1/15/21 Shimanti: Site deployed on Netlify (to see it)
+- 1/16/21 Katrina: First website finished - OMG, 3 days!
+- 1/17/21 Shimanti: Second prototype (bpDesign/20211017log.pdf); Asked for help on charts (leon) & SEO (sam) - 10 mins each
