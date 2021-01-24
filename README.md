@@ -12,10 +12,12 @@
 ## Rules
 - Health first
     - 1 hour per day max 
-    - set timer
-    - stretch, sit back with eyes closed for 1 min, walk around, drink water, eat healthy
-    - check bp twice per day am/pm with set alarm 
-        - preferably, take bp before coffee or 2hrs after, and sit for 1 minute pre-reading
+    - Set timer
+    - Stretch, sit back with eyes closed for 1 min, walk around, drink water, eat healthy
+    - Check bp twice per day am/pm with set alarm preferably, 
+        - Take bp before coffee or 2hrs after
+        - Sit for 1 minute before the bp check
+        - Rest arm somewhere above the heart for best reading
 
 ## Code
 - Add comments after coding
