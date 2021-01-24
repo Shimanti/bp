@@ -43,7 +43,7 @@
 ## Resources
 - Video to watch: www.youtube.com/watch?v=p0bGHP-PXD4
 - GitHub https://github.com/Shimanti/cloudy
-- Proposal https://docs.google.com/document/d/1lAn36GEdbCMZQFhIohaVyAM9CQb0K-RJb-7oBbtJIYg/edit
+- Proposal https://docs.google.com/document/d/1lAn36GEdbCMZQFhIohaVyAM9CQb0K-RJb-7oBbtJIYg/edit?usp=sharing
 - Netlify Site deployment: https://shimanti-cloudy.netlify.app
 
 ## Next Step
