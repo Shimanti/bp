@@ -1,6 +1,6 @@
 # Cloudy - A sample layout of a web cloud platform
 
-# Project Plan as of 1/13/21; updated 1/24/21 - split App to another respository
+# Project Plan as of 1/13/21; updated 1/24/21
 ## Agenda
 
 ### 1 Rules
