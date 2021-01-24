@@ -11,7 +11,12 @@ Blood Pressure Log
 ### 5 Next steps
 
 ## Rules
+- Health first
 - 1 hour per day max - set timer
+-- stretch, sit back with eyes closed for 1 min, walk around, drink water, eat healthy
+-- check bp twice per day am/pm with set alarm (preferably before coffee or 2hrs after, and sitting for 1 minute pre-reading)
+
+## Code
 - Add comments after coding
 - Don’t worry about css until after site is built
 
@@ -32,19 +37,20 @@ Blood Pressure Log
 -- walking, 10 min exercise, meditation (even 2 min shit eye) reduce BP
 - Built prototype2 - updated spreadsheet
 - Next Step: Design app with production
+- Test: MVP with doctor - failed
 
 ## Resources
 - Video to watch: www.youtube.com/watch?v=p0bGHP-PXD4
-- GitHub https://github.com/Shimanti/bp/tree/shimanti
+- GitHub https://github.com/Shimanti/bp
 - Proposal https://docs.google.com/document/d/1lAn36GEdbCMZQFhIohaVyAM9CQb0K-RJb-7oBbtJIYg/edit
 - Netlify Site deployment: https://shimanti-cloudy.netlify.app
 
 ## Next Step
 - [x] Set up GitHub
 - [x] Set up scheduling to alternate programmers
-- [x] Start project plan - Fill-in proposal - to do task
+- [x] Start project plan - Fill-in proposal
 - [x] Start programming
-- Scrum time!
+- [x] Scrum time!
 
 ## Scheduling
 - Katrina EST pritckat@gmail.com
@@ -53,10 +59,10 @@ Blood Pressure Log
     - Night
 
 ## Deadlines
-- First website - Wed Jan 20, 2021
+- First website - Wed Jan 20, 2021 (finished Sat Jan 16, 2021)
 - Second - modified for proposal
     - Week 1: First draft
-    - Week 2: Second draft
+    - Week 2: Second draft (reach goal Mon Feb 1, 2021)
 - Third - cleanup for real test with Leon
 
 ## Tasks Accomplished
@@ -72,6 +78,7 @@ Blood Pressure Log
 Next Scrum: Mon Jan 18, 2021 at noon MT (max 1 hr)
 - S: Walk through prototype2
 - K: Walk through website1 - steps, please!
+Next Scrum: Mon Jan 25, 2021 at noon MT (max 1 hr)
 
 All communication: via DM on Discord
 
@@ -82,3 +89,5 @@ All communication: via DM on Discord
 - 1/15/21 Shimanti: Site deployed on Netlify (to see it)
 - 1/16/21 Katrina: First website finished - OMG, 3 days!
 - 1/17/21 Shimanti: Second prototype (bpDesign/20211017log.pdf); Asked for help on charts (leon) & SEO (sam) - 10 mins each
+- 1/23/21 Katrina: Input & Chart pages added
+- 1/24/21 Shimanti: Split projects into  Cloudy for responsive website; bp for testing live site; bp2 for version2
